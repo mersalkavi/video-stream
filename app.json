@@ -9,9 +9,9 @@
         "pyrogram"
     ],
     "website": "https://t.me/levinachannel",
-    "repository": "https://heroku.com/deploy?template=
+    "repository": "https://heroku.com/deploy?template=https://github.com/LightningBeats1_bot/video-stream
 
-https://github.com/LightningBeats1_bot/video-stream
+
     "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
